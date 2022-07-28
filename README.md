@@ -1,5 +1,3 @@
-# Project created by Hovsep Avagyan (@Hovsep-A), Arin Jokaklian (@Arinetch) and Ashot Janibekyan (@ashotjanibekyan) with substantial help and supervision of Arpine Kozmanyan (@ArpineKoz).
-
 # Project Description
 
 This project contains the results of the analysis done to evaluate the possibility of detection of inefficiencies in photovoltaic systems.
