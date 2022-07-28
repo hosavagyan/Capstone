@@ -1,0 +1,20 @@
+Basic data evaluation and exploration : 
+Technical overview and understanding of the subject matter
+Read about the topic and understand the terms mentioned in the data
+Understand the particulars about the collection of data, is it aggregated?
+Exploration and evaluation of the available data and information. Understand the mening of each data column
+Exploration of the inverter behaviour within plants
+Study the power generation behaviour of a single inverter and its evolution/changes in time
+Study and compare the behaviour between different inverters in the same plant
+	Questions to answer:
+Explore the DC to AC conversion behaviour
+Can we study the behaviour and any changes it has in time for a single inverter? Look at a several cases and think of an automatic way for checking the rest of inverters
+Can we compare the behaviour of different inverters? Is there correlation between them in time? Are some more correlated then others? Are some more different than others?
+Explore the variable daily yield
+Explore the variable total yield
+Study the power generation behaviour of a single inverter relative to weather conditions or relative to the module temperature (here assume that the module temperature is correlated with the temperature of the panels present in a particular plant)
+	Questions to answer:
+Explore inverter temperature with respect to weather conditions, irradiation or the power generated during the day
+Explore AC power relative to ambient temperature, inverter temperature, irradiation
+Explore DC power relative to ambient temperature, inverter temperature, irradiation
+Explore daily yield relative to average daily temperature, irradiation
